@@ -1,0 +1,235 @@
+{
+  "starsAsOf": "2026-11-25",
+  "projects": [
+    {
+      "id": "dsh-game-studio",
+      "name": "DSH Game Studio",
+      "category": "游戏开发",
+      "type": "游戏创作插件",
+      "url": "https://github.com/ZSeven-W/dsh-game-studio",
+      "repo": "ZSeven-W/dsh-game-studio",
+      "stars": 904,
+      "description": "用一句话描述玩法，先在 DeepSeek Harness 侧栏试玩 2D 或 3D 小游戏，再替换角色和场景素材。项目可以发布到 GitHub Pages 或 Cloudflare。",
+      "resource": {
+        "label": "浏览作品墙",
+        "url": "https://finiking.github.io/dsh-games/wall/"
+      },
+      "images": [
+        {
+          "path": "previews/dsh-game-studio-1.webp",
+          "caption": "月夜森林中的 2D 收集游戏",
+          "source": "https://github.com/ZSeven-W/dsh-game-studio/blob/7d7630bfe1320327befb766501559893540ca782/docs/images/dsh-game-studio-play-moonlit-2d.jpg"
+        },
+        {
+          "path": "previews/dsh-game-studio-2.webp",
+          "caption": "同一只狐狸的 3D 体素岛屿关卡",
+          "source": "https://github.com/ZSeven-W/dsh-game-studio/blob/7d7630bfe1320327befb766501559893540ca782/docs/images/dsh-game-studio-play-fox-3d.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kagit-kart",
+      "name": "Kâğıt Kart",
+      "category": "游戏开发",
+      "type": "可玩游戏案例",
+      "url": "https://github.com/BurakErdemci/kagit-kart/tree/master",
+      "repo": "BurakErdemci/kagit-kart",
+      "stars": 20,
+      "description": "把浏览器赛车做成一本立体书。赛车驶近时，桥梁和建筑从书页上折起；纸车、赛道纹理和音效均由代码生成。",
+      "resource": {
+        "label": "在线试玩",
+        "url": "https://burakerdemci.github.io/kagit-kart/"
+      },
+      "images": [
+        {
+          "path": "previews/kagit-kart-1.webp",
+          "caption": "立体书展开后的游戏菜单",
+          "source": "https://github.com/BurakErdemci/kagit-kart/blob/ae500d99d5ba2359d4bb52853e97c244c0ea182a/docs/shots/menu.jpg"
+        },
+        {
+          "path": "previews/kagit-kart-2.webp",
+          "caption": "冰川赛道上的漂移加速",
+          "source": "https://github.com/BurakErdemci/kagit-kart/blob/ae500d99d5ba2359d4bb52853e97c244c0ea182a/docs/shots/glacier-drift.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ffmpeg-skill",
+      "name": "FFmpeg Skill",
+      "category": "视频制作",
+      "type": "剪辑 Skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "repo": "kajisho5/ffmpeg-skill",
+      "stars": 10914,
+      "description": "让编程助手在本机调用 FFmpeg，把长素材剪成短片、添加逐词高亮字幕，或把同一段横屏视频重构为竖屏。",
+      "resource": {
+        "label": "观看剪辑演示",
+        "url": "https://kajisho5.github.io/ffmpeg-skill/#showcase"
+      },
+      "images": [
+        {
+          "path": "previews/ffmpeg-skill-1.gif",
+          "caption": "逐词高亮字幕演示",
+          "source": "https://github.com/kajisho5/ffmpeg-skill/blob/c7dad34c846099e7cf606ef943abe5e12d1ab0f9/docs/demos/captions_pop_karaoke.gif"
+        },
+        {
+          "path": "previews/ffmpeg-skill-2.gif",
+          "caption": "横屏转竖屏的裁切对照",
+          "source": "https://github.com/kajisho5/ffmpeg-skill/blob/c7dad34c846099e7cf606ef943abe5e12d1ab0f9/docs/demos/reframe_crop.gif"
+        }
+      ]
+    },
+    {
+      "id": "remotion-skills",
+      "name": "Remotion Agent Skills",
+      "category": "视频制作",
+      "type": "官方 Skill 合集",
+      "url": "https://github.com/remotion-dev/skills",
+      "repo": "remotion-dev/skills",
+      "stars": 7986,
+      "description": "用 React 编排视频。助手可创建合成、安排动画节奏、添加字幕和地图，再启动 Remotion Studio 检查时间线并渲染成片。",
+      "resource": {
+        "label": "查看提示词与作品",
+        "url": "https://www.remotion.dev/prompts"
+      },
+      "images": [
+        {
+          "path": "previews/remotion-skills-1.webp",
+          "caption": "官方教程中的 Studio 视频预览与剪辑时间线",
+          "source": "https://www.remotion.dev/img/your-first-video-roller-ski-wide.webp"
+        }
+      ]
+    },
+    {
+      "id": "perspective-illusion",
+      "name": "Perspective Illusion",
+      "category": "视频制作",
+      "type": "透视动画 Skill",
+      "url": "https://github.com/dotslashsimran/simcraft/tree/main/skills/video/perspective-illusion",
+      "repo": "dotslashsimran/simcraft",
+      "stars": 558,
+      "description": "用同一条街演出平面插画与立体空间之间的切换。模板通过推拉变焦和相机绕行让纵深显现，可输出无缝循环视频。",
+      "images": [
+        {
+          "path": "previews/perspective-illusion-1.webp",
+          "caption": "街景模板实渲帧 · 0.30 秒，长焦压缩纵深",
+          "source": "https://github.com/dotslashsimran/simcraft/blob/58224d131814572224537fb516b8c5d33dd5fa67/skills/video/perspective-illusion/templates/street_plus.html"
+        },
+        {
+          "path": "previews/perspective-illusion-2.webp",
+          "caption": "街景模板实渲帧 · 2.33 秒，转角视图展开",
+          "source": "https://github.com/dotslashsimran/simcraft/blob/58224d131814572224537fb516b8c5d33dd5fa67/skills/video/perspective-illusion/templates/street_plus.html"
+        }
+      ],
+      "starNote": "此 Skill 位于 simcraft 的子目录，Stars 为整个 simcraft 仓库的计数。"
+    },
+    {
+      "id": "creator-generalist",
+      "name": "Creator Generalist",
+      "category": "视觉创作与仿真",
+      "type": "创作 Skill 合集",
+      "url": "https://github.com/codepawl/creator-generalist",
+      "repo": "codepawl/creator-generalist",
+      "stars": 368,
+      "description": "为 2D 解说、3D 动画和游戏原型提供不同的制作流程。作者用同一套工具做出了带传动结构的水磨剖面，以及按年代展开的丝绸之路地图。",
+      "images": [
+        {
+          "path": "previews/creator-generalist-1.webp",
+          "caption": "水磨剖面与传动结构",
+          "source": "https://github.com/codepawl/creator-generalist/blob/fd244459e21f364d7384c460e7965e1aff211791/assets/mill.gif"
+        },
+        {
+          "path": "previews/creator-generalist-2.webp",
+          "caption": "丝绸之路地图动画",
+          "source": "https://github.com/codepawl/creator-generalist/blob/fd244459e21f364d7384c460e7965e1aff211791/assets/map.gif"
+        }
+      ]
+    },
+    {
+      "id": "teardown",
+      "name": "Teardown",
+      "category": "视觉创作与仿真",
+      "type": "交互仿真 Skill",
+      "url": "https://github.com/elvarofficial/teardown",
+      "repo": "elvarofficial/teardown",
+      "stars": 4153,
+      "description": "把机械原理做成可离线打开的交互式 3D 网页。读者可以在机器运转时展开零件，观察部件动作及其对应的仪表读数。",
+      "images": [
+        {
+          "path": "previews/teardown-1.webp",
+          "caption": "机械蜂模拟器",
+          "source": "https://github.com/elvarofficial/teardown/blob/a91262ac1109051e014662d42ecb0b7bc1f113b1/docs/bee.gif"
+        },
+        {
+          "path": "previews/teardown-2.webp",
+          "caption": "机械章鱼模拟器",
+          "source": "https://github.com/elvarofficial/teardown/blob/a91262ac1109051e014662d42ecb0b7bc1f113b1/docs/octopus.gif"
+        }
+      ]
+    },
+    {
+      "id": "pocket-city",
+      "name": "Pocket City",
+      "category": "地图与城市可视化",
+      "type": "城市建模 Skill",
+      "url": "https://april-zhu.com/pocketcity",
+      "repo": null,
+      "stars": null,
+      "description": "把现实中的一小片街区绘成可旋转的等距微缩模型。官网可以探索阿姆斯特丹的运河与桥梁，也提供生成其他街区的 Skill 下载。",
+      "resource": {
+        "label": "下载 Skill（ZIP）",
+        "url": "https://april-zhu.com/pocketcity/skill/pocket-city.zip"
+      },
+      "images": [
+        {
+          "path": "previews/pocket-city-1.webp",
+          "caption": "波托菲诺港口的等距微缩模型",
+          "source": "https://april-zhu.com/pocketcity/skill/portofino-preview.webp"
+        }
+      ]
+    },
+    {
+      "id": "dsh-pet",
+      "name": "DSH Pet",
+      "category": "桌面交互",
+      "type": "桌宠插件",
+      "url": "https://github.com/PC2005-cloud/dsh-pet",
+      "repo": "PC2005-cloud/dsh-pet",
+      "stars": 6720,
+      "description": "让透明动画桌宠在桌面或 DSH 网页中活动。可以多开、调整大小与位置，也可以把自制 AI 视频加工成宠物动作。",
+      "images": [
+        {
+          "path": "previews/dsh-pet-1.webp",
+          "caption": "宠物在 DSH 界面中的运行效果",
+          "source": "https://github.com/PC2005-cloud/dsh-pet/blob/fb38ce620576f5ed3735a99536d2b1a4a9eb313f/assets/screenshots/dsh-pet-running-1.png"
+        },
+        {
+          "path": "previews/dsh-pet-2.gif",
+          "caption": "自定义动作示例 · 吃白饭",
+          "source": "https://github.com/PC2005-cloud/dsh-pet/blob/fb38ce620576f5ed3735a99536d2b1a4a9eb313f/dsh-pet/assets/preview/chi-baifan.gif"
+        }
+      ]
+    },
+    {
+      "id": "ziwei-doushu",
+      "name": "紫微斗数",
+      "category": "传统文化与知识库",
+      "type": "排盘引擎与数据集",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "repo": "Renhuai123/ziwei-doushu",
+      "stars": 19643,
+      "description": "按倪海厦《天纪》体系整理传统紫微斗数的排盘算法、四化规则、古籍和命例。可在线查看排盘，也可按课程图例对照研读。",
+      "resource": {
+        "label": "在线排盘",
+        "url": "https://ouranic.cn/?from=gh-readme"
+      },
+      "images": [
+        {
+          "path": "previews/ziwei-doushu-1.svg",
+          "caption": "课程命例 · 命宫甲午的十二宫排布",
+          "source": "https://github.com/Renhuai123/ziwei-doushu/blob/a857a4fc2c2950cf27c8e4818c77a7090ad1c434/research/nishi-video-reading/%E5%BA%B7%E5%A5%88%E5%B0%94%E7%AC%94%E8%AE%B0/P09/%E5%9B%BE/%E5%91%BD%E7%9B%98-P09-%E5%91%BD%E5%AE%AB%E7%94%B2%E5%8D%88.svg"
+        }
+      ]
+    }
+  ]
+}
