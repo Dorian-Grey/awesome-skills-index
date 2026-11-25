@@ -2,22 +2,23 @@
 
 按用途收录可复用的 AI 技能、创作工具与成品案例。点击项目名查看简介和效果图，点击图片可查看上游原图或生成它的模板。
 
-**12 个项目 · 7 个领域**　｜　GitHub Stars 采集于 2026-11-25（北京时间）
+**13 个项目 · 7 个领域**　｜　GitHub Stars 采集于 2026-11-25（北京时间）
 
 | 领域 | 项目 | 类型 | GitHub Stars |
 | --- | --- | --- | ---: |
-| 游戏开发 | [DSH Game Studio](#project-dsh-game-studio) | 游戏创作插件 | [905](https://github.com/ZSeven-W/dsh-game-studio/stargazers) |
+| 游戏开发 | [DSH Game Studio](#project-dsh-game-studio) | 游戏创作插件 | [911](https://github.com/ZSeven-W/dsh-game-studio/stargazers) |
 |  | [Kâğıt Kart](#project-kagit-kart) | 可玩游戏案例 | [20](https://github.com/BurakErdemci/kagit-kart/stargazers) |
-| 视频制作 | [FFmpeg Skill](#project-ffmpeg-skill) | 剪辑 Skill | [10,922](https://github.com/kajisho5/ffmpeg-skill/stargazers) |
-|  | [Remotion Agent Skills](#project-remotion-skills) | 官方 Skill 合集 | [7,986](https://github.com/remotion-dev/skills/stargazers) |
-|  | [Perspective Illusion](#project-perspective-illusion) | 透视动画 Skill | [558](https://github.com/dotslashsimran/simcraft/stargazers)（所属仓库） |
-|  | [SRT 白板动画](#project-srt-whiteboard-animation) | 手绘动画 Skill | [5,831](https://github.com/geeklee/srt-whiteboard-animation/stargazers) |
-| 视觉创作与仿真 | [Creator Generalist](#project-creator-generalist) | 创作 Skill 合集 | [368](https://github.com/codepawl/creator-generalist/stargazers) |
-|  | [Teardown](#project-teardown) | 交互仿真 Skill | [4,155](https://github.com/elvarofficial/teardown/stargazers) |
-| UI 与设计系统 | [Awesome DESIGN.md](#project-awesome-design-md) | 设计规范合集 | [129,014](https://github.com/VoltAgent/awesome-design-md/stargazers) |
+| 视频制作 | [FFmpeg Skill](#project-ffmpeg-skill) | 剪辑 Skill | [10,968](https://github.com/kajisho5/ffmpeg-skill/stargazers) |
+|  | [Remotion Agent Skills](#project-remotion-skills) | 官方 Skill 合集 | [7,994](https://github.com/remotion-dev/skills/stargazers) |
+|  | [Perspective Illusion](#project-perspective-illusion) | 透视动画 Skill | [556](https://github.com/dotslashsimran/simcraft/stargazers)（所属仓库） |
+|  | [SRT 白板动画](#project-srt-whiteboard-animation) | 手绘动画 Skill | [5,833](https://github.com/geeklee/srt-whiteboard-animation/stargazers) |
+| 视觉创作与仿真 | [Creator Generalist](#project-creator-generalist) | 创作 Skill 合集 | [369](https://github.com/codepawl/creator-generalist/stargazers) |
+|  | [Teardown](#project-teardown) | 交互仿真 Skill | [4,163](https://github.com/elvarofficial/teardown/stargazers) |
+| UI 与设计系统 | [Awesome DESIGN.md](#project-awesome-design-md) | 设计规范合集 | [129,030](https://github.com/VoltAgent/awesome-design-md/stargazers) |
 | 地图与城市可视化 | [Pocket City](#project-pocket-city) | 城市建模 Skill | — |
 | 桌面交互 | [DSH Pet](#project-dsh-pet) | 桌宠插件 | [6,722](https://github.com/PC2005-cloud/dsh-pet/stargazers) |
-| 传统文化与知识库 | [紫微斗数](#project-ziwei-doushu) | 排盘引擎与数据集 | [19,645](https://github.com/Renhuai123/ziwei-doushu/stargazers) |
+|  | [KuroCat](#project-kurocat) | 桌宠工具 | [923](https://github.com/qianyiai/kurocat/stargazers) |
+| 传统文化与知识库 | [紫微斗数](#project-ziwei-doushu) | 排盘引擎与数据集 | [19,657](https://github.com/Renhuai123/ziwei-doushu/stargazers) |
 
 ## 游戏开发
 
@@ -166,6 +167,18 @@ Stars 暂缺。项目官网未提供对应的公开 GitHub 仓库链接。
 | 宠物在 DSH 界面中的运行效果 | 自定义动作示例 · 吃白饭 |
 | --- | --- |
 | <a href="https://github.com/PC2005-cloud/dsh-pet/blob/fb38ce620576f5ed3735a99536d2b1a4a9eb313f/assets/screenshots/dsh-pet-running-1.png"><img src="previews/dsh-pet-1.webp" width="410" alt="宠物在 DSH 界面中的运行效果"></a> | <a href="https://github.com/PC2005-cloud/dsh-pet/blob/fb38ce620576f5ed3735a99536d2b1a4a9eb313f/dsh-pet/assets/preview/chi-baifan.gif"><img src="previews/dsh-pet-2.gif" width="410" alt="自定义动作示例 · 吃白饭"></a> |
+
+<a id="project-kurocat"></a>
+
+### KuroCat
+
+透明置顶的桌面打字猫，按键和鼠标动作会触发动画。可切换 2D 手绘和 3D 立体模式，作为 OBS 透明浏览器源，也能通过 MCP 定制角色。
+
+[项目主页](https://github.com/qianyiai/kurocat) · [官网在线试玩](https://qianyi.one/kurocat/)
+
+| 3D 桌宠与打字动画 | 65% 与 108 键键盘的双视角对比 |
+| --- | --- |
+| <a href="https://github.com/qianyiai/kurocat/blob/c3010dedf61b25c908922e958986e60339659e84/docs/playground-demo.webp"><img src="previews/kurocat-1.webp" width="410" alt="3D 桌宠与打字动画"></a> | <a href="https://github.com/qianyiai/kurocat/blob/c3010dedf61b25c908922e958986e60339659e84/website/public/assets/showcase-108key.webp"><img src="previews/kurocat-2.webp" width="410" alt="65% 与 108 键键盘的双视角对比"></a> |
 
 ## 传统文化与知识库
 

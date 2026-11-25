@@ -8,7 +8,7 @@
       "type": "游戏创作插件",
       "url": "https://github.com/ZSeven-W/dsh-game-studio",
       "repo": "ZSeven-W/dsh-game-studio",
-      "stars": 905,
+      "stars": 911,
       "description": "用一句话描述玩法，先在 DeepSeek Harness 侧栏试玩 2D 或 3D 小游戏，再替换角色和场景素材。项目可以发布到 GitHub Pages 或 Cloudflare。",
       "resource": {
         "label": "浏览作品墙",
@@ -60,7 +60,7 @@
       "type": "剪辑 Skill",
       "url": "https://github.com/kajisho5/ffmpeg-skill",
       "repo": "kajisho5/ffmpeg-skill",
-      "stars": 10922,
+      "stars": 10968,
       "description": "让编程助手在本机调用 FFmpeg，把长素材剪成短片、添加逐词高亮字幕，或把同一段横屏视频重构为竖屏。",
       "resource": {
         "label": "观看剪辑演示",
@@ -86,7 +86,7 @@
       "type": "官方 Skill 合集",
       "url": "https://github.com/remotion-dev/skills",
       "repo": "remotion-dev/skills",
-      "stars": 7986,
+      "stars": 7994,
       "description": "用 React 编排视频。助手可创建合成、安排动画节奏、添加字幕和地图，再启动 Remotion Studio 检查时间线并渲染成片。",
       "resource": {
         "label": "查看提示词与作品",
@@ -107,7 +107,7 @@
       "type": "透视动画 Skill",
       "url": "https://github.com/dotslashsimran/simcraft/tree/main/skills/video/perspective-illusion",
       "repo": "dotslashsimran/simcraft",
-      "stars": 558,
+      "stars": 556,
       "description": "用同一条街演出平面插画与立体空间之间的切换。模板通过推拉变焦和相机绕行让纵深显现，可输出无缝循环视频。",
       "images": [
         {
@@ -130,7 +130,7 @@
       "type": "手绘动画 Skill",
       "url": "https://github.com/geeklee/srt-whiteboard-animation",
       "repo": "geeklee/srt-whiteboard-animation",
-      "stars": 5831,
+      "stars": 5833,
       "description": "把 SRT 字幕拆成分镜，用字幕的时间轴安排画面元素依次下笔、上色。可以在浏览器预览台调整绘制顺序和时序，再导出 MP4，适合课程和知识讲解视频。",
       "images": [
         {
@@ -152,7 +152,7 @@
       "type": "创作 Skill 合集",
       "url": "https://github.com/codepawl/creator-generalist",
       "repo": "codepawl/creator-generalist",
-      "stars": 368,
+      "stars": 369,
       "description": "为 2D 解说、3D 动画和游戏原型提供不同的制作流程。作者用同一套工具做出了带传动结构的水磨剖面，以及按年代展开的丝绸之路地图。",
       "images": [
         {
@@ -174,7 +174,7 @@
       "type": "交互仿真 Skill",
       "url": "https://github.com/elvarofficial/teardown",
       "repo": "elvarofficial/teardown",
-      "stars": 4155,
+      "stars": 4163,
       "description": "把机械原理做成可离线打开的交互式 3D 网页。读者可以在机器运转时展开零件，观察部件动作及其对应的仪表读数。",
       "images": [
         {
@@ -196,7 +196,7 @@
       "type": "设计规范合集",
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "repo": "VoltAgent/awesome-design-md",
-      "stars": 129014,
+      "stars": 129030,
       "description": "把品牌网站的颜色、字体、间距、组件和布局规则整理成可复用的 DESIGN.md。放进项目后，编程助手可按同一套设计规范生成页面和组件。",
       "resource": {
         "label": "浏览设计目录",
@@ -259,13 +259,39 @@
       ]
     },
     {
+      "id": "kurocat",
+      "name": "KuroCat",
+      "category": "桌面交互",
+      "type": "桌宠工具",
+      "url": "https://github.com/qianyiai/kurocat",
+      "repo": "qianyiai/kurocat",
+      "stars": 923,
+      "description": "透明置顶的桌面打字猫，按键和鼠标动作会触发动画。可切换 2D 手绘和 3D 立体模式，作为 OBS 透明浏览器源，也能通过 MCP 定制角色。",
+      "resource": {
+        "label": "官网在线试玩",
+        "url": "https://qianyi.one/kurocat/"
+      },
+      "images": [
+        {
+          "path": "previews/kurocat-1.webp",
+          "caption": "3D 桌宠与打字动画",
+          "source": "https://github.com/qianyiai/kurocat/blob/c3010dedf61b25c908922e958986e60339659e84/docs/playground-demo.webp"
+        },
+        {
+          "path": "previews/kurocat-2.webp",
+          "caption": "65% 与 108 键键盘的双视角对比",
+          "source": "https://github.com/qianyiai/kurocat/blob/c3010dedf61b25c908922e958986e60339659e84/website/public/assets/showcase-108key.webp"
+        }
+      ]
+    },
+    {
       "id": "ziwei-doushu",
       "name": "紫微斗数",
       "category": "传统文化与知识库",
       "type": "排盘引擎与数据集",
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "repo": "Renhuai123/ziwei-doushu",
-      "stars": 19645,
+      "stars": 19657,
       "description": "按倪海厦《天纪》体系整理传统紫微斗数的排盘算法、四化规则、古籍和命例。可在线查看排盘，也可按课程图例对照研读。",
       "resource": {
         "label": "在线排盘",
