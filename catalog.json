@@ -1,5 +1,5 @@
 {
-  "starsAsOf": "2026-11-25",
+  "starsAsOf": "2026-11-26",
   "projects": [
     {
       "id": "dsh-game-studio",
@@ -60,7 +60,7 @@
       "type": "剪辑 Skill",
       "url": "https://github.com/kajisho5/ffmpeg-skill",
       "repo": "kajisho5/ffmpeg-skill",
-      "stars": 10968,
+      "stars": 10980,
       "description": "让编程助手在本机调用 FFmpeg，把长素材剪成短片、添加逐词高亮字幕，或把同一段横屏视频重构为竖屏。",
       "resource": {
         "label": "观看剪辑演示",
@@ -86,7 +86,7 @@
       "type": "官方 Skill 合集",
       "url": "https://github.com/remotion-dev/skills",
       "repo": "remotion-dev/skills",
-      "stars": 7994,
+      "stars": 7995,
       "description": "用 React 编排视频。助手可创建合成、安排动画节奏、添加字幕和地图，再启动 Remotion Studio 检查时间线并渲染成片。",
       "resource": {
         "label": "查看提示词与作品",
@@ -130,7 +130,7 @@
       "type": "手绘动画 Skill",
       "url": "https://github.com/geeklee/srt-whiteboard-animation",
       "repo": "geeklee/srt-whiteboard-animation",
-      "stars": 5833,
+      "stars": 5834,
       "description": "把 SRT 字幕拆成分镜，用字幕的时间轴安排画面元素依次下笔、上色。可以在浏览器预览台调整绘制顺序和时序，再导出 MP4，适合课程和知识讲解视频。",
       "images": [
         {
@@ -174,7 +174,7 @@
       "type": "交互仿真 Skill",
       "url": "https://github.com/elvarofficial/teardown",
       "repo": "elvarofficial/teardown",
-      "stars": 4163,
+      "stars": 4164,
       "description": "把机械原理做成可离线打开的交互式 3D 网页。读者可以在机器运转时展开零件，观察部件动作及其对应的仪表读数。",
       "images": [
         {
@@ -196,7 +196,7 @@
       "type": "设计规范合集",
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "repo": "VoltAgent/awesome-design-md",
-      "stars": 129030,
+      "stars": 129032,
       "description": "把品牌网站的颜色、字体、间距、组件和布局规则整理成可复用的 DESIGN.md。放进项目后，编程助手可按同一套设计规范生成页面和组件。",
       "resource": {
         "label": "浏览设计目录",
@@ -212,6 +212,84 @@
           "path": "previews/awesome-design-md-2.webp",
           "caption": "Notion 样例 · 浅色界面与色板",
           "source": "https://getdesign.md/design-md/notion/preview"
+        }
+      ]
+    },
+    {
+      "id": "frontend-slides",
+      "name": "Frontend Slides",
+      "category": "演示文稿",
+      "type": "HTML 演示 Skill",
+      "url": "https://github.com/zarazhangrui/frontend-slides",
+      "repo": "zarazhangrui/frontend-slides",
+      "stars": 32903,
+      "description": "从主题生成浏览器里可翻页的单文件 HTML，也能把现有 PowerPoint 转成网页幻灯片。先给出多套视觉预览供挑选，再沿选定的风格完成整份演示。",
+      "resource": {
+        "label": "浏览模板画廊",
+        "url": "https://github.com/zarazhangrui/frontend-slides#bold-template-gallery"
+      },
+      "images": [
+        {
+          "path": "previews/frontend-slides-1.webp",
+          "caption": "Soft Editorial · 编辑式卡片布局",
+          "source": "https://github.com/zarazhangrui/beautiful-html-templates/blob/e5e204fb1f3b06290846e7dcd7aceddabeceec8c/screenshots/soft-editorial-4.png"
+        },
+        {
+          "path": "previews/frontend-slides-2.webp",
+          "caption": "Cobalt Grid · 钴蓝网格封面",
+          "source": "https://github.com/zarazhangrui/beautiful-html-templates/blob/e5e204fb1f3b06290846e7dcd7aceddabeceec8c/screenshots/cobalt-grid-1.png"
+        }
+      ]
+    },
+    {
+      "id": "guizang-ppt-skill",
+      "name": "归藏 PPT Skill",
+      "category": "演示文稿",
+      "type": "HTML 演示 Skill",
+      "url": "https://github.com/op7418/guizang-ppt-skill",
+      "repo": "op7418/guizang-ppt-skill",
+      "stars": 30416,
+      "description": "用电子杂志或瑞士国际主义两套版式生成单文件 HTML 幻灯片，也能制作配图与社媒封面。演讲者模式显示讲稿和下一页预览，并提供计时排练。",
+      "resource": {
+        "label": "查看版式与演示",
+        "url": "https://github.com/op7418/guizang-ppt-skill#%E6%95%88%E6%9E%9C"
+      },
+      "images": [
+        {
+          "path": "previews/guizang-ppt-skill-1.webp",
+          "caption": "电子杂志风格作品集",
+          "source": "https://github.com/op7418/guizang-ppt-skill/blob/93d21bf4a73a851907a6eb00acbf30618236667a/assets/ppt-skill-showcase.png"
+        },
+        {
+          "path": "previews/guizang-ppt-skill-2.webp",
+          "caption": "瑞士国际主义风格版式示例",
+          "source": "https://github.com/user-attachments/assets/8960e78c-69bb-4b7e-aa95-6fad64b70314"
+        }
+      ]
+    },
+    {
+      "id": "ppt-master",
+      "name": "PPT Master",
+      "category": "演示文稿",
+      "type": "PowerPoint 生成 Skill",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "repo": "hugohe3/ppt-master",
+      "stars": 80167,
+      "description": "把文档或主题整理成可以在 PowerPoint 里继续编辑的 PPTX，支持原生图表、动画、讲稿配音，也可以沿用自己的 PPTX 模板。",
+      "resource": {
+        "label": "在线浏览作品",
+        "url": "https://hugohe3.github.io/ppt-master-examples/"
+      },
+      "images": [
+        {
+          "path": "previews/ppt-master-1.webp",
+          "caption": "像素风《中国早餐图鉴》",
+          "source": "https://github.com/hugohe3/ppt-master/blob/63a03673d5c3c928e7f52983a2c8ec65bac30002/docs/assets/screenshots/preview_pixel_breakfast_atlas.webp"
+        },
+        {
+          "path": "previews/ppt-master-2.webp",
+          "caption": "技术蓝图风格的 Transformer 论文解读",
+          "source": "https://github.com/hugohe3/ppt-master/blob/63a03673d5c3c928e7f52983a2c8ec65bac30002/docs/assets/screenshots/preview_attention_is_all_you_need.webp"
         }
       ]
     },
@@ -265,7 +343,7 @@
       "type": "桌宠工具",
       "url": "https://github.com/qianyiai/kurocat",
       "repo": "qianyiai/kurocat",
-      "stars": 923,
+      "stars": 932,
       "description": "透明置顶的桌面打字猫，按键和鼠标动作会触发动画。可切换 2D 手绘和 3D 立体模式，作为 OBS 透明浏览器源，也能通过 MCP 定制角色。",
       "resource": {
         "label": "官网在线试玩",
@@ -291,7 +369,7 @@
       "type": "排盘引擎与数据集",
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "repo": "Renhuai123/ziwei-doushu",
-      "stars": 19657,
+      "stars": 19660,
       "description": "按倪海厦《天纪》体系整理传统紫微斗数的排盘算法、四化规则、古籍和命例。可在线查看排盘，也可按课程图例对照研读。",
       "resource": {
         "label": "在线排盘",

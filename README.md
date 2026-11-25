@@ -1,24 +1,27 @@
 # 热门 Skill 精选
 
-按用途收录可复用的 AI 技能、创作工具与成品案例。点击项目名查看简介和效果图，点击图片可查看上游原图或生成它的模板。
+按用途收录可复用的 AI 技能、创作工具与成品案例。各领域按 Stars 从高到低排列，暂无计数的项目排在末尾。点击项目名查看简介和效果图，点击图片可查看上游原图或生成它的模板。
 
-**13 个项目 · 7 个领域**　｜　GitHub Stars 采集于 2026-11-25（北京时间）
+**16 个项目 · 8 个领域**　｜　GitHub Stars 采集于 2026-11-26（北京时间）
 
 | 领域 | 项目 | 类型 | GitHub Stars |
 | --- | --- | --- | ---: |
 | 游戏开发 | [DSH Game Studio](#project-dsh-game-studio) | 游戏创作插件 | [911](https://github.com/ZSeven-W/dsh-game-studio/stargazers) |
 |  | [Kâğıt Kart](#project-kagit-kart) | 可玩游戏案例 | [20](https://github.com/BurakErdemci/kagit-kart/stargazers) |
-| 视频制作 | [FFmpeg Skill](#project-ffmpeg-skill) | 剪辑 Skill | [10,968](https://github.com/kajisho5/ffmpeg-skill/stargazers) |
-|  | [Remotion Agent Skills](#project-remotion-skills) | 官方 Skill 合集 | [7,994](https://github.com/remotion-dev/skills/stargazers) |
+| 视频制作 | [FFmpeg Skill](#project-ffmpeg-skill) | 剪辑 Skill | [10,980](https://github.com/kajisho5/ffmpeg-skill/stargazers) |
+|  | [Remotion Agent Skills](#project-remotion-skills) | 官方 Skill 合集 | [7,995](https://github.com/remotion-dev/skills/stargazers) |
+|  | [SRT 白板动画](#project-srt-whiteboard-animation) | 手绘动画 Skill | [5,834](https://github.com/geeklee/srt-whiteboard-animation/stargazers) |
 |  | [Perspective Illusion](#project-perspective-illusion) | 透视动画 Skill | [556](https://github.com/dotslashsimran/simcraft/stargazers)（所属仓库） |
-|  | [SRT 白板动画](#project-srt-whiteboard-animation) | 手绘动画 Skill | [5,833](https://github.com/geeklee/srt-whiteboard-animation/stargazers) |
-| 视觉创作与仿真 | [Creator Generalist](#project-creator-generalist) | 创作 Skill 合集 | [369](https://github.com/codepawl/creator-generalist/stargazers) |
-|  | [Teardown](#project-teardown) | 交互仿真 Skill | [4,163](https://github.com/elvarofficial/teardown/stargazers) |
-| UI 与设计系统 | [Awesome DESIGN.md](#project-awesome-design-md) | 设计规范合集 | [129,030](https://github.com/VoltAgent/awesome-design-md/stargazers) |
+| 视觉创作与仿真 | [Teardown](#project-teardown) | 交互仿真 Skill | [4,164](https://github.com/elvarofficial/teardown/stargazers) |
+|  | [Creator Generalist](#project-creator-generalist) | 创作 Skill 合集 | [369](https://github.com/codepawl/creator-generalist/stargazers) |
+| UI 与设计系统 | [Awesome DESIGN.md](#project-awesome-design-md) | 设计规范合集 | [129,032](https://github.com/VoltAgent/awesome-design-md/stargazers) |
+| 演示文稿 | [PPT Master](#project-ppt-master) | PowerPoint 生成 Skill | [80,167](https://github.com/hugohe3/ppt-master/stargazers) |
+|  | [Frontend Slides](#project-frontend-slides) | HTML 演示 Skill | [32,903](https://github.com/zarazhangrui/frontend-slides/stargazers) |
+|  | [归藏 PPT Skill](#project-guizang-ppt-skill) | HTML 演示 Skill | [30,416](https://github.com/op7418/guizang-ppt-skill/stargazers) |
 | 地图与城市可视化 | [Pocket City](#project-pocket-city) | 城市建模 Skill | — |
 | 桌面交互 | [DSH Pet](#project-dsh-pet) | 桌宠插件 | [6,722](https://github.com/PC2005-cloud/dsh-pet/stargazers) |
-|  | [KuroCat](#project-kurocat) | 桌宠工具 | [923](https://github.com/qianyiai/kurocat/stargazers) |
-| 传统文化与知识库 | [紫微斗数](#project-ziwei-doushu) | 排盘引擎与数据集 | [19,657](https://github.com/Renhuai123/ziwei-doushu/stargazers) |
+|  | [KuroCat](#project-kurocat) | 桌宠工具 | [932](https://github.com/qianyiai/kurocat/stargazers) |
+| 传统文化与知识库 | [紫微斗数](#project-ziwei-doushu) | 排盘引擎与数据集 | [19,660](https://github.com/Renhuai123/ziwei-doushu/stargazers) |
 
 ## 游戏开发
 
@@ -72,6 +75,18 @@
 | --- |
 | <a href="https://www.remotion.dev/img/your-first-video-roller-ski-wide.webp"><img src="previews/remotion-skills-1.webp" width="600" alt="官方教程中的 Studio 视频预览与剪辑时间线"></a> |
 
+<a id="project-srt-whiteboard-animation"></a>
+
+### SRT 白板动画
+
+把 SRT 字幕拆成分镜，用字幕的时间轴安排画面元素依次下笔、上色。可以在浏览器预览台调整绘制顺序和时序，再导出 MP4，适合课程和知识讲解视频。
+
+[项目主页](https://github.com/geeklee/srt-whiteboard-animation)
+
+| 猴子山抢香蕉 · 随字幕落笔并上色 | 同一场景的原始线稿 |
+| --- | --- |
+| <a href="https://github.com/geeklee/srt-whiteboard-animation/blob/696a7243c0e6ffb6827676e539c2ca5ebae2bf6b/examples/scene-01-monkey-mountain-stream.gif"><img src="previews/srt-whiteboard-animation-1.webp" width="410" alt="猴子山抢香蕉 · 随字幕落笔并上色"></a> | <a href="https://github.com/geeklee/srt-whiteboard-animation/blob/696a7243c0e6ffb6827676e539c2ca5ebae2bf6b/examples/scene-01-monkey-mountain.png"><img src="previews/srt-whiteboard-animation-2.webp" width="410" alt="同一场景的原始线稿"></a> |
+
 <a id="project-perspective-illusion"></a>
 
 ### Perspective Illusion
@@ -86,31 +101,7 @@
 | --- | --- |
 | <a href="https://github.com/dotslashsimran/simcraft/blob/58224d131814572224537fb516b8c5d33dd5fa67/skills/video/perspective-illusion/templates/street_plus.html"><img src="previews/perspective-illusion-1.webp" width="410" alt="街景模板实渲帧 · 0.30 秒，长焦压缩纵深"></a> | <a href="https://github.com/dotslashsimran/simcraft/blob/58224d131814572224537fb516b8c5d33dd5fa67/skills/video/perspective-illusion/templates/street_plus.html"><img src="previews/perspective-illusion-2.webp" width="410" alt="街景模板实渲帧 · 2.33 秒，转角视图展开"></a> |
 
-<a id="project-srt-whiteboard-animation"></a>
-
-### SRT 白板动画
-
-把 SRT 字幕拆成分镜，用字幕的时间轴安排画面元素依次下笔、上色。可以在浏览器预览台调整绘制顺序和时序，再导出 MP4，适合课程和知识讲解视频。
-
-[项目主页](https://github.com/geeklee/srt-whiteboard-animation)
-
-| 猴子山抢香蕉 · 随字幕落笔并上色 | 同一场景的原始线稿 |
-| --- | --- |
-| <a href="https://github.com/geeklee/srt-whiteboard-animation/blob/696a7243c0e6ffb6827676e539c2ca5ebae2bf6b/examples/scene-01-monkey-mountain-stream.gif"><img src="previews/srt-whiteboard-animation-1.webp" width="410" alt="猴子山抢香蕉 · 随字幕落笔并上色"></a> | <a href="https://github.com/geeklee/srt-whiteboard-animation/blob/696a7243c0e6ffb6827676e539c2ca5ebae2bf6b/examples/scene-01-monkey-mountain.png"><img src="previews/srt-whiteboard-animation-2.webp" width="410" alt="同一场景的原始线稿"></a> |
-
 ## 视觉创作与仿真
-
-<a id="project-creator-generalist"></a>
-
-### Creator Generalist
-
-为 2D 解说、3D 动画和游戏原型提供不同的制作流程。作者用同一套工具做出了带传动结构的水磨剖面，以及按年代展开的丝绸之路地图。
-
-[项目主页](https://github.com/codepawl/creator-generalist)
-
-| 水磨剖面与传动结构 | 丝绸之路地图动画 |
-| --- | --- |
-| <a href="https://github.com/codepawl/creator-generalist/blob/fd244459e21f364d7384c460e7965e1aff211791/assets/mill.gif"><img src="previews/creator-generalist-1.webp" width="410" alt="水磨剖面与传动结构"></a> | <a href="https://github.com/codepawl/creator-generalist/blob/fd244459e21f364d7384c460e7965e1aff211791/assets/map.gif"><img src="previews/creator-generalist-2.webp" width="410" alt="丝绸之路地图动画"></a> |
 
 <a id="project-teardown"></a>
 
@@ -123,6 +114,18 @@
 | 机械蜂模拟器 | 机械章鱼模拟器 |
 | --- | --- |
 | <a href="https://github.com/elvarofficial/teardown/blob/a91262ac1109051e014662d42ecb0b7bc1f113b1/docs/bee.gif"><img src="previews/teardown-1.webp" width="410" alt="机械蜂模拟器"></a> | <a href="https://github.com/elvarofficial/teardown/blob/a91262ac1109051e014662d42ecb0b7bc1f113b1/docs/octopus.gif"><img src="previews/teardown-2.webp" width="410" alt="机械章鱼模拟器"></a> |
+
+<a id="project-creator-generalist"></a>
+
+### Creator Generalist
+
+为 2D 解说、3D 动画和游戏原型提供不同的制作流程。作者用同一套工具做出了带传动结构的水磨剖面，以及按年代展开的丝绸之路地图。
+
+[项目主页](https://github.com/codepawl/creator-generalist)
+
+| 水磨剖面与传动结构 | 丝绸之路地图动画 |
+| --- | --- |
+| <a href="https://github.com/codepawl/creator-generalist/blob/fd244459e21f364d7384c460e7965e1aff211791/assets/mill.gif"><img src="previews/creator-generalist-1.webp" width="410" alt="水磨剖面与传动结构"></a> | <a href="https://github.com/codepawl/creator-generalist/blob/fd244459e21f364d7384c460e7965e1aff211791/assets/map.gif"><img src="previews/creator-generalist-2.webp" width="410" alt="丝绸之路地图动画"></a> |
 
 ## UI 与设计系统
 
@@ -137,6 +140,44 @@
 | VoltAgent 样例 · 深色界面与绿色按钮 | Notion 样例 · 浅色界面与色板 |
 | --- | --- |
 | <a href="https://getdesign.md/design-md/voltagent/preview-dark"><img src="previews/awesome-design-md-1.webp" width="410" alt="VoltAgent 样例 · 深色界面与绿色按钮"></a> | <a href="https://getdesign.md/design-md/notion/preview"><img src="previews/awesome-design-md-2.webp" width="410" alt="Notion 样例 · 浅色界面与色板"></a> |
+
+## 演示文稿
+
+<a id="project-ppt-master"></a>
+
+### PPT Master
+
+把文档或主题整理成可以在 PowerPoint 里继续编辑的 PPTX，支持原生图表、动画、讲稿配音，也可以沿用自己的 PPTX 模板。
+
+[项目主页](https://github.com/hugohe3/ppt-master) · [在线浏览作品](https://hugohe3.github.io/ppt-master-examples/)
+
+| 像素风《中国早餐图鉴》 | 技术蓝图风格的 Transformer 论文解读 |
+| --- | --- |
+| <a href="https://github.com/hugohe3/ppt-master/blob/63a03673d5c3c928e7f52983a2c8ec65bac30002/docs/assets/screenshots/preview_pixel_breakfast_atlas.webp"><img src="previews/ppt-master-1.webp" width="410" alt="像素风《中国早餐图鉴》"></a> | <a href="https://github.com/hugohe3/ppt-master/blob/63a03673d5c3c928e7f52983a2c8ec65bac30002/docs/assets/screenshots/preview_attention_is_all_you_need.webp"><img src="previews/ppt-master-2.webp" width="410" alt="技术蓝图风格的 Transformer 论文解读"></a> |
+
+<a id="project-frontend-slides"></a>
+
+### Frontend Slides
+
+从主题生成浏览器里可翻页的单文件 HTML，也能把现有 PowerPoint 转成网页幻灯片。先给出多套视觉预览供挑选，再沿选定的风格完成整份演示。
+
+[项目主页](https://github.com/zarazhangrui/frontend-slides) · [浏览模板画廊](https://github.com/zarazhangrui/frontend-slides#bold-template-gallery)
+
+| Soft Editorial · 编辑式卡片布局 | Cobalt Grid · 钴蓝网格封面 |
+| --- | --- |
+| <a href="https://github.com/zarazhangrui/beautiful-html-templates/blob/e5e204fb1f3b06290846e7dcd7aceddabeceec8c/screenshots/soft-editorial-4.png"><img src="previews/frontend-slides-1.webp" width="410" alt="Soft Editorial · 编辑式卡片布局"></a> | <a href="https://github.com/zarazhangrui/beautiful-html-templates/blob/e5e204fb1f3b06290846e7dcd7aceddabeceec8c/screenshots/cobalt-grid-1.png"><img src="previews/frontend-slides-2.webp" width="410" alt="Cobalt Grid · 钴蓝网格封面"></a> |
+
+<a id="project-guizang-ppt-skill"></a>
+
+### 归藏 PPT Skill
+
+用电子杂志或瑞士国际主义两套版式生成单文件 HTML 幻灯片，也能制作配图与社媒封面。演讲者模式显示讲稿和下一页预览，并提供计时排练。
+
+[项目主页](https://github.com/op7418/guizang-ppt-skill) · [查看版式与演示](https://github.com/op7418/guizang-ppt-skill#%E6%95%88%E6%9E%9C)
+
+| 电子杂志风格作品集 | 瑞士国际主义风格版式示例 |
+| --- | --- |
+| <a href="https://github.com/op7418/guizang-ppt-skill/blob/93d21bf4a73a851907a6eb00acbf30618236667a/assets/ppt-skill-showcase.png"><img src="previews/guizang-ppt-skill-1.webp" width="410" alt="电子杂志风格作品集"></a> | <a href="https://github.com/user-attachments/assets/8960e78c-69bb-4b7e-aa95-6fad64b70314"><img src="previews/guizang-ppt-skill-2.webp" width="410" alt="瑞士国际主义风格版式示例"></a> |
 
 ## 地图与城市可视化
 

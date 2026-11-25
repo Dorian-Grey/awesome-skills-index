@@ -55,11 +55,14 @@ for (const p of projects) {
   if (!groups.has(p.category)) groups.set(p.category, []);
   groups.get(p.category).push(p);
 }
+for (const items of groups.values()) {
+  items.sort((a, b) => (b.stars ?? -1) - (a.stars ?? -1));
+}
 
 const lines = [
   '# 热门 Skill 精选',
   '',
-  '按用途收录可复用的 AI 技能、创作工具与成品案例。点击项目名查看简介和效果图，点击图片可查看上游原图或生成它的模板。',
+  '按用途收录可复用的 AI 技能、创作工具与成品案例。各领域按 Stars 从高到低排列，暂无计数的项目排在末尾。点击项目名查看简介和效果图，点击图片可查看上游原图或生成它的模板。',
   '',
   '**' + projects.length + ' 个项目 · ' + groups.size + ' 个领域**　｜　GitHub Stars 采集于 ' + catalog.starsAsOf + '（北京时间）',
   '',
