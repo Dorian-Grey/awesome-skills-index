@@ -8,7 +8,7 @@
       "type": "游戏创作插件",
       "url": "https://github.com/ZSeven-W/dsh-game-studio",
       "repo": "ZSeven-W/dsh-game-studio",
-      "stars": 904,
+      "stars": 905,
       "description": "用一句话描述玩法，先在 DeepSeek Harness 侧栏试玩 2D 或 3D 小游戏，再替换角色和场景素材。项目可以发布到 GitHub Pages 或 Cloudflare。",
       "resource": {
         "label": "浏览作品墙",
@@ -60,7 +60,7 @@
       "type": "剪辑 Skill",
       "url": "https://github.com/kajisho5/ffmpeg-skill",
       "repo": "kajisho5/ffmpeg-skill",
-      "stars": 10914,
+      "stars": 10922,
       "description": "让编程助手在本机调用 FFmpeg，把长素材剪成短片、添加逐词高亮字幕，或把同一段横屏视频重构为竖屏。",
       "resource": {
         "label": "观看剪辑演示",
@@ -124,6 +124,28 @@
       "starNote": "此 Skill 位于 simcraft 的子目录，Stars 为整个 simcraft 仓库的计数。"
     },
     {
+      "id": "srt-whiteboard-animation",
+      "name": "SRT 白板动画",
+      "category": "视频制作",
+      "type": "手绘动画 Skill",
+      "url": "https://github.com/geeklee/srt-whiteboard-animation",
+      "repo": "geeklee/srt-whiteboard-animation",
+      "stars": 5831,
+      "description": "把 SRT 字幕拆成分镜，用字幕的时间轴安排画面元素依次下笔、上色。可以在浏览器预览台调整绘制顺序和时序，再导出 MP4，适合课程和知识讲解视频。",
+      "images": [
+        {
+          "path": "previews/srt-whiteboard-animation-1.webp",
+          "caption": "猴子山抢香蕉 · 随字幕落笔并上色",
+          "source": "https://github.com/geeklee/srt-whiteboard-animation/blob/696a7243c0e6ffb6827676e539c2ca5ebae2bf6b/examples/scene-01-monkey-mountain-stream.gif"
+        },
+        {
+          "path": "previews/srt-whiteboard-animation-2.webp",
+          "caption": "同一场景的原始线稿",
+          "source": "https://github.com/geeklee/srt-whiteboard-animation/blob/696a7243c0e6ffb6827676e539c2ca5ebae2bf6b/examples/scene-01-monkey-mountain.png"
+        }
+      ]
+    },
+    {
       "id": "creator-generalist",
       "name": "Creator Generalist",
       "category": "视觉创作与仿真",
@@ -152,7 +174,7 @@
       "type": "交互仿真 Skill",
       "url": "https://github.com/elvarofficial/teardown",
       "repo": "elvarofficial/teardown",
-      "stars": 4153,
+      "stars": 4155,
       "description": "把机械原理做成可离线打开的交互式 3D 网页。读者可以在机器运转时展开零件，观察部件动作及其对应的仪表读数。",
       "images": [
         {
@@ -164,6 +186,32 @@
           "path": "previews/teardown-2.webp",
           "caption": "机械章鱼模拟器",
           "source": "https://github.com/elvarofficial/teardown/blob/a91262ac1109051e014662d42ecb0b7bc1f113b1/docs/octopus.gif"
+        }
+      ]
+    },
+    {
+      "id": "awesome-design-md",
+      "name": "Awesome DESIGN.md",
+      "category": "UI 与设计系统",
+      "type": "设计规范合集",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "repo": "VoltAgent/awesome-design-md",
+      "stars": 129014,
+      "description": "把品牌网站的颜色、字体、间距、组件和布局规则整理成可复用的 DESIGN.md。放进项目后，编程助手可按同一套设计规范生成页面和组件。",
+      "resource": {
+        "label": "浏览设计目录",
+        "url": "https://getdesign.md/design-md"
+      },
+      "images": [
+        {
+          "path": "previews/awesome-design-md-1.webp",
+          "caption": "VoltAgent 样例 · 深色界面与绿色按钮",
+          "source": "https://getdesign.md/design-md/voltagent/preview-dark"
+        },
+        {
+          "path": "previews/awesome-design-md-2.webp",
+          "caption": "Notion 样例 · 浅色界面与色板",
+          "source": "https://getdesign.md/design-md/notion/preview"
         }
       ]
     },
@@ -195,7 +243,7 @@
       "type": "桌宠插件",
       "url": "https://github.com/PC2005-cloud/dsh-pet",
       "repo": "PC2005-cloud/dsh-pet",
-      "stars": 6720,
+      "stars": 6722,
       "description": "让透明动画桌宠在桌面或 DSH 网页中活动。可以多开、调整大小与位置，也可以把自制 AI 视频加工成宠物动作。",
       "images": [
         {
@@ -217,7 +265,7 @@
       "type": "排盘引擎与数据集",
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "repo": "Renhuai123/ziwei-doushu",
-      "stars": 19643,
+      "stars": 19645,
       "description": "按倪海厦《天纪》体系整理传统紫微斗数的排盘算法、四化规则、古籍和命例。可在线查看排盘，也可按课程图例对照研读。",
       "resource": {
         "label": "在线排盘",

@@ -2,20 +2,22 @@
 
 按用途收录可复用的 AI 技能、创作工具与成品案例。点击项目名查看简介和效果图，点击图片可查看上游原图或生成它的模板。
 
-**10 个项目 · 6 个领域**　｜　GitHub Stars 采集于 2026-11-25（北京时间）
+**12 个项目 · 7 个领域**　｜　GitHub Stars 采集于 2026-11-25（北京时间）
 
 | 领域 | 项目 | 类型 | GitHub Stars |
 | --- | --- | --- | ---: |
-| 游戏开发 | [DSH Game Studio](#project-dsh-game-studio) | 游戏创作插件 | [904](https://github.com/ZSeven-W/dsh-game-studio/stargazers) |
+| 游戏开发 | [DSH Game Studio](#project-dsh-game-studio) | 游戏创作插件 | [905](https://github.com/ZSeven-W/dsh-game-studio/stargazers) |
 |  | [Kâğıt Kart](#project-kagit-kart) | 可玩游戏案例 | [20](https://github.com/BurakErdemci/kagit-kart/stargazers) |
-| 视频制作 | [FFmpeg Skill](#project-ffmpeg-skill) | 剪辑 Skill | [10,914](https://github.com/kajisho5/ffmpeg-skill/stargazers) |
+| 视频制作 | [FFmpeg Skill](#project-ffmpeg-skill) | 剪辑 Skill | [10,922](https://github.com/kajisho5/ffmpeg-skill/stargazers) |
 |  | [Remotion Agent Skills](#project-remotion-skills) | 官方 Skill 合集 | [7,986](https://github.com/remotion-dev/skills/stargazers) |
 |  | [Perspective Illusion](#project-perspective-illusion) | 透视动画 Skill | [558](https://github.com/dotslashsimran/simcraft/stargazers)（所属仓库） |
+|  | [SRT 白板动画](#project-srt-whiteboard-animation) | 手绘动画 Skill | [5,831](https://github.com/geeklee/srt-whiteboard-animation/stargazers) |
 | 视觉创作与仿真 | [Creator Generalist](#project-creator-generalist) | 创作 Skill 合集 | [368](https://github.com/codepawl/creator-generalist/stargazers) |
-|  | [Teardown](#project-teardown) | 交互仿真 Skill | [4,153](https://github.com/elvarofficial/teardown/stargazers) |
+|  | [Teardown](#project-teardown) | 交互仿真 Skill | [4,155](https://github.com/elvarofficial/teardown/stargazers) |
+| UI 与设计系统 | [Awesome DESIGN.md](#project-awesome-design-md) | 设计规范合集 | [129,014](https://github.com/VoltAgent/awesome-design-md/stargazers) |
 | 地图与城市可视化 | [Pocket City](#project-pocket-city) | 城市建模 Skill | — |
-| 桌面交互 | [DSH Pet](#project-dsh-pet) | 桌宠插件 | [6,720](https://github.com/PC2005-cloud/dsh-pet/stargazers) |
-| 传统文化与知识库 | [紫微斗数](#project-ziwei-doushu) | 排盘引擎与数据集 | [19,643](https://github.com/Renhuai123/ziwei-doushu/stargazers) |
+| 桌面交互 | [DSH Pet](#project-dsh-pet) | 桌宠插件 | [6,722](https://github.com/PC2005-cloud/dsh-pet/stargazers) |
+| 传统文化与知识库 | [紫微斗数](#project-ziwei-doushu) | 排盘引擎与数据集 | [19,645](https://github.com/Renhuai123/ziwei-doushu/stargazers) |
 
 ## 游戏开发
 
@@ -83,6 +85,18 @@
 | --- | --- |
 | <a href="https://github.com/dotslashsimran/simcraft/blob/58224d131814572224537fb516b8c5d33dd5fa67/skills/video/perspective-illusion/templates/street_plus.html"><img src="previews/perspective-illusion-1.webp" width="410" alt="街景模板实渲帧 · 0.30 秒，长焦压缩纵深"></a> | <a href="https://github.com/dotslashsimran/simcraft/blob/58224d131814572224537fb516b8c5d33dd5fa67/skills/video/perspective-illusion/templates/street_plus.html"><img src="previews/perspective-illusion-2.webp" width="410" alt="街景模板实渲帧 · 2.33 秒，转角视图展开"></a> |
 
+<a id="project-srt-whiteboard-animation"></a>
+
+### SRT 白板动画
+
+把 SRT 字幕拆成分镜，用字幕的时间轴安排画面元素依次下笔、上色。可以在浏览器预览台调整绘制顺序和时序，再导出 MP4，适合课程和知识讲解视频。
+
+[项目主页](https://github.com/geeklee/srt-whiteboard-animation)
+
+| 猴子山抢香蕉 · 随字幕落笔并上色 | 同一场景的原始线稿 |
+| --- | --- |
+| <a href="https://github.com/geeklee/srt-whiteboard-animation/blob/696a7243c0e6ffb6827676e539c2ca5ebae2bf6b/examples/scene-01-monkey-mountain-stream.gif"><img src="previews/srt-whiteboard-animation-1.webp" width="410" alt="猴子山抢香蕉 · 随字幕落笔并上色"></a> | <a href="https://github.com/geeklee/srt-whiteboard-animation/blob/696a7243c0e6ffb6827676e539c2ca5ebae2bf6b/examples/scene-01-monkey-mountain.png"><img src="previews/srt-whiteboard-animation-2.webp" width="410" alt="同一场景的原始线稿"></a> |
+
 ## 视觉创作与仿真
 
 <a id="project-creator-generalist"></a>
@@ -108,6 +122,20 @@
 | 机械蜂模拟器 | 机械章鱼模拟器 |
 | --- | --- |
 | <a href="https://github.com/elvarofficial/teardown/blob/a91262ac1109051e014662d42ecb0b7bc1f113b1/docs/bee.gif"><img src="previews/teardown-1.webp" width="410" alt="机械蜂模拟器"></a> | <a href="https://github.com/elvarofficial/teardown/blob/a91262ac1109051e014662d42ecb0b7bc1f113b1/docs/octopus.gif"><img src="previews/teardown-2.webp" width="410" alt="机械章鱼模拟器"></a> |
+
+## UI 与设计系统
+
+<a id="project-awesome-design-md"></a>
+
+### Awesome DESIGN.md
+
+把品牌网站的颜色、字体、间距、组件和布局规则整理成可复用的 DESIGN.md。放进项目后，编程助手可按同一套设计规范生成页面和组件。
+
+[项目主页](https://github.com/VoltAgent/awesome-design-md) · [浏览设计目录](https://getdesign.md/design-md)
+
+| VoltAgent 样例 · 深色界面与绿色按钮 | Notion 样例 · 浅色界面与色板 |
+| --- | --- |
+| <a href="https://getdesign.md/design-md/voltagent/preview-dark"><img src="previews/awesome-design-md-1.webp" width="410" alt="VoltAgent 样例 · 深色界面与绿色按钮"></a> | <a href="https://getdesign.md/design-md/notion/preview"><img src="previews/awesome-design-md-2.webp" width="410" alt="Notion 样例 · 浅色界面与色板"></a> |
 
 ## 地图与城市可视化
 
