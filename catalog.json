@@ -9,7 +9,7 @@
       "url": "https://github.com/ZSeven-W/dsh-game-studio",
       "repo": "ZSeven-W/dsh-game-studio",
       "stars": 911,
-      "description": "用一句话描述玩法，先在 DeepSeek Harness 侧栏试玩 2D 或 3D 小游戏，再替换角色和场景素材。项目可以发布到 GitHub Pages 或 Cloudflare。",
+      "description": "用一句话描述玩法，生成可试玩的 2D 或 3D 小游戏。换好角色和场景后，可以发链接邀请别人玩。",
       "resource": {
         "label": "浏览作品墙",
         "url": "https://finiking.github.io/dsh-games/wall/"
@@ -35,7 +35,7 @@
       "url": "https://github.com/BurakErdemci/kagit-kart/tree/master",
       "repo": "BurakErdemci/kagit-kart",
       "stars": 20,
-      "description": "把浏览器赛车做成一本立体书。赛车驶近时，桥梁和建筑从书页上折起；纸车、赛道纹理和音效均由代码生成。",
+      "description": "打开网页就能玩纸片卡丁车。漂移竞速时，桥梁和建筑会随着赛车靠近从书页上立起。",
       "resource": {
         "label": "在线试玩",
         "url": "https://burakerdemci.github.io/kagit-kart/"
@@ -61,7 +61,7 @@
       "url": "https://github.com/kajisho5/ffmpeg-skill",
       "repo": "kajisho5/ffmpeg-skill",
       "stars": 10980,
-      "description": "让编程助手在本机调用 FFmpeg，把长素材剪成短片、添加逐词高亮字幕，或把同一段横屏视频重构为竖屏。",
+      "description": "把现有视频剪成可发布的短片，去掉静音段、加逐词高亮字幕，也能把横屏素材裁成适合社媒发布的竖屏。",
       "resource": {
         "label": "观看剪辑演示",
         "url": "https://kajisho5.github.io/ffmpeg-skill/#showcase"
@@ -87,7 +87,7 @@
       "url": "https://github.com/remotion-dev/skills",
       "repo": "remotion-dev/skills",
       "stars": 7995,
-      "description": "用 React 编排视频。助手可创建合成、安排动画节奏、添加字幕和地图，再启动 Remotion Studio 检查时间线并渲染成片。",
+      "description": "把文案、图片和数据做成带动画的产品介绍、片头或地图解说。先预览节奏和字幕，再导出视频。",
       "resource": {
         "label": "查看提示词与作品",
         "url": "https://www.remotion.dev/prompts"
@@ -108,7 +108,7 @@
       "url": "https://github.com/dotslashsimran/simcraft/tree/main/skills/video/perspective-illusion",
       "repo": "dotslashsimran/simcraft",
       "stars": 556,
-      "description": "用同一条街演出平面插画与立体空间之间的切换。模板通过推拉变焦和相机绕行让纵深显现，可输出无缝循环视频。",
+      "description": "做出一段可循环播放的视觉错觉视频。街景先像平面插画，镜头移动时显出纵深，适合做创意短片或片头。",
       "images": [
         {
           "path": "previews/perspective-illusion-1.webp",
@@ -131,7 +131,7 @@
       "url": "https://github.com/geeklee/srt-whiteboard-animation",
       "repo": "geeklee/srt-whiteboard-animation",
       "stars": 5834,
-      "description": "把 SRT 字幕拆成分镜，用字幕的时间轴安排画面元素依次下笔、上色。可以在浏览器预览台调整绘制顺序和时序，再导出 MP4，适合课程和知识讲解视频。",
+      "description": "把课程或口播字幕做成手绘解说视频。线条和颜色跟着讲解逐步出现，让观众边听边看重点。",
       "images": [
         {
           "path": "previews/srt-whiteboard-animation-1.webp",
@@ -153,7 +153,7 @@
       "url": "https://github.com/codepawl/creator-generalist",
       "repo": "codepawl/creator-generalist",
       "stars": 369,
-      "description": "为 2D 解说、3D 动画和游戏原型提供不同的制作流程。作者用同一套工具做出了带传动结构的水磨剖面，以及按年代展开的丝绸之路地图。",
+      "description": "把创意做成动画解说、角色展示或可试玩的游戏原型，例如会运转的水磨剖面和逐段展开的丝绸之路地图。",
       "images": [
         {
           "path": "previews/creator-generalist-1.webp",
@@ -175,7 +175,7 @@
       "url": "https://github.com/elvarofficial/teardown",
       "repo": "elvarofficial/teardown",
       "stars": 4164,
-      "description": "把机械原理做成可离线打开的交互式 3D 网页。读者可以在机器运转时展开零件，观察部件动作及其对应的仪表读数。",
+      "description": "把机械装置做成可拆开的网页演示。可以边看机器运转，边展开部件或查看仪表，用来讲解零件怎样配合。",
       "images": [
         {
           "path": "previews/teardown-1.webp",
@@ -197,7 +197,7 @@
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "repo": "VoltAgent/awesome-design-md",
       "stars": 129032,
-      "description": "把品牌网站的颜色、字体、间距、组件和布局规则整理成可复用的 DESIGN.md。放进项目后，编程助手可按同一套设计规范生成页面和组件。",
+      "description": "从现成的界面示例里挑一套视觉风格，让助手做出配色、按钮和排版一致的网站。适合给新站或改版定风格。",
       "resource": {
         "label": "浏览设计目录",
         "url": "https://getdesign.md/design-md"
@@ -223,7 +223,7 @@
       "url": "https://github.com/zarazhangrui/frontend-slides",
       "repo": "zarazhangrui/frontend-slides",
       "stars": 32903,
-      "description": "从主题生成浏览器里可翻页的单文件 HTML，也能把现有 PowerPoint 转成网页幻灯片。先给出多套视觉预览供挑选，再沿选定的风格完成整份演示。",
+      "description": "把一个主题或已有的 PowerPoint 做成能在浏览器翻页的演示。可以先看几种风格再选，做好后把网页文件发给听众。",
       "resource": {
         "label": "浏览模板画廊",
         "url": "https://github.com/zarazhangrui/frontend-slides#bold-template-gallery"
@@ -249,7 +249,7 @@
       "url": "https://github.com/op7418/guizang-ppt-skill",
       "repo": "op7418/guizang-ppt-skill",
       "stars": 30416,
-      "description": "用电子杂志或瑞士国际主义两套版式生成单文件 HTML 幻灯片，也能制作配图与社媒封面。演讲者模式显示讲稿和下一页预览，并提供计时排练。",
+      "description": "把文章或产品介绍排成杂志式或网格式的网页演示，也能制作配图和分享封面。现场讲解时可看讲稿、下一页和计时。",
       "resource": {
         "label": "查看版式与演示",
         "url": "https://github.com/op7418/guizang-ppt-skill#%E6%95%88%E6%9E%9C"
@@ -275,7 +275,7 @@
       "url": "https://github.com/hugohe3/ppt-master",
       "repo": "hugohe3/ppt-master",
       "stars": 80167,
-      "description": "把文档或主题整理成可以在 PowerPoint 里继续编辑的 PPTX，支持原生图表、动画、讲稿配音，也可以沿用自己的 PPTX 模板。",
+      "description": "把报告或主题做成可以在 PowerPoint 里继续修改的幻灯片。文字和图表能逐项编辑，也可以沿用自己的演示模板。",
       "resource": {
         "label": "在线浏览作品",
         "url": "https://hugohe3.github.io/ppt-master-examples/"
@@ -301,7 +301,7 @@
       "url": "https://april-zhu.com/pocketcity",
       "repo": null,
       "stars": null,
-      "description": "把现实中的一小片街区绘成可旋转的等距微缩模型。官网可以探索阿姆斯特丹的运河与桥梁，也提供生成其他街区的 Skill 下载。",
+      "description": "给一个真实地址，做出可旋转、缩放和切换季节的手绘微缩街区。适合展示城市地标，或把熟悉的街角做成可分享的纪念。",
       "resource": {
         "label": "下载 Skill（ZIP）",
         "url": "https://april-zhu.com/pocketcity/skill/pocket-city.zip"
@@ -322,7 +322,7 @@
       "url": "https://github.com/PC2005-cloud/dsh-pet",
       "repo": "PC2005-cloud/dsh-pet",
       "stars": 6722,
-      "description": "让透明动画桌宠在桌面或 DSH 网页中活动。可以多开、调整大小与位置，也可以把自制 AI 视频加工成宠物动作。",
+      "description": "让会动的宠物陪在桌面一角。可以同时放几只，调整大小和位置，也能用自制视频给宠物添加新动作。",
       "images": [
         {
           "path": "previews/dsh-pet-1.webp",
@@ -344,7 +344,7 @@
       "url": "https://github.com/qianyiai/kurocat",
       "repo": "qianyiai/kurocat",
       "stars": 932,
-      "description": "透明置顶的桌面打字猫，按键和鼠标动作会触发动画。可切换 2D 手绘和 3D 立体模式，作为 OBS 透明浏览器源，也能通过 MCP 定制角色。",
+      "description": "桌角的小猫会模仿你敲键盘和点鼠标，也可以换造型。直播时可以把小猫放进画面，让观众看见它的反应。",
       "resource": {
         "label": "官网在线试玩",
         "url": "https://qianyi.one/kurocat/"
@@ -370,7 +370,7 @@
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "repo": "Renhuai123/ziwei-doushu",
       "stars": 19660,
-      "description": "按倪海厦《天纪》体系整理传统紫微斗数的排盘算法、四化规则、古籍和命例。可在线查看排盘，也可按课程图例对照研读。",
+      "description": "用出生信息生成传统紫微斗数命盘，查看宫位和星曜分布，也可以对照古籍和课程命例学习排盘。",
       "resource": {
         "label": "在线排盘",
         "url": "https://ouranic.cn/?from=gh-readme"

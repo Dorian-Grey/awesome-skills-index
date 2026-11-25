@@ -62,16 +62,17 @@ for (const items of groups.values()) {
 const lines = [
   '# 热门 Skill 精选',
   '',
-  '按用途收录可复用的 AI 技能、创作工具与成品案例。各领域按 Stars 从高到低排列，暂无计数的项目排在末尾。点击项目名查看简介和效果图，点击图片可查看上游原图或生成它的模板。',
+  '按用途收录可复用的 AI 技能、创作工具与成品案例。各领域按 Stars 从高到低排列，暂无计数的项目排在末尾。点击项目名查看项目链接和效果图，点击图片可查看上游原图或生成它的模板。',
   '',
   '**' + projects.length + ' 个项目 · ' + groups.size + ' 个领域**　｜　GitHub Stars 采集于 ' + catalog.starsAsOf + '（北京时间）',
   '',
-  '| 领域 | 项目 | 类型 | GitHub Stars |',
+  '| 领域 | 项目 | 简介 | GitHub Stars |',
   '| --- | --- | --- | ---: |',
 ];
 for (const [group, items] of groups) {
   for (const [i, p] of items.entries()) {
-    lines.push('| ' + (i === 0 ? group : '') + ' | [' + p.name + '](#project-' + p.id + ') | ' + p.type + ' | ' + stars(p) + (p.starNote ? '（所属仓库）' : '') + ' |');
+    const summary = p.description.replace(/\s*\r?\n\s*/g, ' ').replaceAll('|', '\\|');
+    lines.push('| ' + (i === 0 ? group : '') + ' | [' + p.name + '](#project-' + p.id + ') | ' + summary + ' | ' + stars(p) + (p.starNote ? '（所属仓库）' : '') + ' |');
   }
 }
 
@@ -90,7 +91,7 @@ for (const [group, items] of groups) {
   }
 }
 lines.push('', '## 扩充索引', '',
-  '1. 在 [catalog.json](catalog.json) 的 `projects` 中复制一条相近的记录，填写唯一的 `id`、领域、类型、简介和项目链接。`repo` 填 GitHub 的 `owner/repo`，官网项目可填 `null`。收录子目录时，用 `starNote` 注明 Stars 归属。',
+  '1. 在 [catalog.json](catalog.json) 的 `projects` 中复制一条相近的记录，填写唯一的 `id`、领域、简介和项目链接。简介用一两句写明能做出什么、可以用在什么场景。`repo` 填 GitHub 的 `owner/repo`，官网项目可填 `null`。收录子目录时，用 `starNote` 注明 Stars 归属。',
   '2. 将 1–3 张效果图放进 [previews/](previews/)，在 `images` 中填写相对路径、中文图注和上游来源。相同的 `category` 会自动归为一组。',
   '3. 使用 Node.js 20 或更高版本，在仓库根目录运行 `node scripts/catalog.mjs --refresh-stars`，统一更新 Stars 和首页。只修改文字或图片时，运行 `node scripts/catalog.mjs` 即可离线重建。将数据、图片和 README 一起提交。',
   '',
