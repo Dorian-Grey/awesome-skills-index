@@ -1,5 +1,5 @@
 {
-  "starsAsOf": "2026-11-28",
+  "starsAsOf": "2026-11-29",
   "projects": [
     {
       "id": "dsh-game-studio",
@@ -8,7 +8,7 @@
       "type": "游戏创作插件",
       "url": "https://github.com/ZSeven-W/dsh-game-studio",
       "repo": "ZSeven-W/dsh-game-studio",
-      "stars": 994,
+      "stars": 992,
       "description": "用一句话描述玩法，生成可试玩的 2D 或 3D 小游戏。换好角色和场景后，可以发链接邀请别人玩。",
       "resource": {
         "label": "浏览作品墙",
@@ -60,7 +60,7 @@
       "type": "剪辑 Skill",
       "url": "https://github.com/kajisho5/ffmpeg-skill",
       "repo": "kajisho5/ffmpeg-skill",
-      "stars": 12191,
+      "stars": 12222,
       "description": "把现有视频剪成可发布的短片，去掉静音段、加逐词高亮字幕，也能把横屏素材裁成适合社媒发布的竖屏。",
       "resource": {
         "label": "观看剪辑演示",
@@ -86,7 +86,7 @@
       "type": "官方 Skill 合集",
       "url": "https://github.com/remotion-dev/skills",
       "repo": "remotion-dev/skills",
-      "stars": 8240,
+      "stars": 8250,
       "description": "把文案、图片和数据做成带动画的产品介绍、片头或地图解说。先预览节奏和字幕，再导出视频。",
       "resource": {
         "label": "查看提示词与作品",
@@ -107,7 +107,7 @@
       "type": "透视动画 Skill",
       "url": "https://github.com/dotslashsimran/simcraft/tree/main/skills/video/perspective-illusion",
       "repo": "dotslashsimran/simcraft",
-      "stars": 575,
+      "stars": 576,
       "description": "做出一段可循环播放的视觉错觉视频。街景先像平面插画，镜头移动时显出纵深，适合做创意短片或片头。",
       "images": [
         {
@@ -130,7 +130,7 @@
       "type": "手绘动画 Skill",
       "url": "https://github.com/geeklee/srt-whiteboard-animation",
       "repo": "geeklee/srt-whiteboard-animation",
-      "stars": 5900,
+      "stars": 5899,
       "description": "把课程或口播字幕做成手绘解说视频。线条和颜色跟着讲解逐步出现，让观众边听边看重点。",
       "images": [
         {
@@ -151,7 +151,7 @@
       "category": "视频制作",
       "url": "https://github.com/nexu-io/openmotion",
       "repo": "nexu-io/openmotion",
-      "stars": 17127,
+      "stars": 17166,
       "description": "根据参考视频做出自己的版本，换上品牌配色、文案和素材，再逐段调整镜头和节奏。适合制作产品介绍或社媒短片。",
       "resource": {
         "label": "查看官网演示",
@@ -224,7 +224,7 @@
       "type": "交互仿真 Skill",
       "url": "https://github.com/elvarofficial/teardown",
       "repo": "elvarofficial/teardown",
-      "stars": 4358,
+      "stars": 4364,
       "description": "把机械装置做成可拆开的网页演示。可以边看机器运转，边展开部件或查看仪表，用来讲解零件怎样配合。",
       "images": [
         {
@@ -246,7 +246,7 @@
       "type": "设计规范合集",
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "repo": "VoltAgent/awesome-design-md",
-      "stars": 129550,
+      "stars": 129570,
       "description": "从现成的界面示例里挑一套视觉风格，让助手做出配色、按钮和排版一致的网站。适合给新站或改版定风格。",
       "resource": {
         "label": "浏览设计目录",
@@ -271,7 +271,7 @@
       "category": "UI 与设计系统",
       "url": "https://github.com/diffusionstudio/lottie/tree/main/skills/text-to-lottie",
       "repo": "diffusionstudio/lottie",
-      "stars": 5836,
+      "stars": 5837,
       "description": "用文字描述动作，把图标、标志或图形做成可放进网页和 App 的小动画。适合做加载提示、按钮反馈和品牌动效。",
       "resource": {
         "label": "查看官方动效示例",
@@ -298,7 +298,7 @@
       "type": "HTML 演示 Skill",
       "url": "https://github.com/zarazhangrui/frontend-slides",
       "repo": "zarazhangrui/frontend-slides",
-      "stars": 33053,
+      "stars": 33055,
       "description": "把一个主题或已有的 PowerPoint 做成能在浏览器翻页的演示。可以先看几种风格再选，做好后把网页文件发给听众。",
       "resource": {
         "label": "浏览模板画廊",
@@ -324,7 +324,7 @@
       "type": "HTML 演示 Skill",
       "url": "https://github.com/op7418/guizang-ppt-skill",
       "repo": "op7418/guizang-ppt-skill",
-      "stars": 30552,
+      "stars": 30554,
       "description": "把文章或产品介绍排成杂志式或网格式的网页演示，也能制作配图和分享封面。现场讲解时可看讲稿、下一页和计时。",
       "resource": {
         "label": "查看版式与演示",
@@ -350,7 +350,7 @@
       "type": "PowerPoint 生成 Skill",
       "url": "https://github.com/hugohe3/ppt-master",
       "repo": "hugohe3/ppt-master",
-      "stars": 80939,
+      "stars": 80959,
       "description": "把报告或主题做成可以在 PowerPoint 里继续修改的幻灯片。文字和图表能逐项编辑，也可以沿用自己的演示模板。",
       "resource": {
         "label": "在线浏览作品",
@@ -397,7 +397,7 @@
       "type": "桌宠插件",
       "url": "https://github.com/PC2005-cloud/dsh-pet",
       "repo": "PC2005-cloud/dsh-pet",
-      "stars": 6810,
+      "stars": 6811,
       "description": "让会动的宠物陪在桌面一角。可以同时放几只，调整大小和位置，也能用自制视频给宠物添加新动作。",
       "images": [
         {
@@ -419,7 +419,7 @@
       "type": "桌宠工具",
       "url": "https://github.com/qianyiai/kurocat",
       "repo": "qianyiai/kurocat",
-      "stars": 1915,
+      "stars": 1926,
       "description": "桌角的小猫会模仿你敲键盘和点鼠标，也可以换造型。直播时可以把小猫放进画面，让观众看见它的反应。",
       "resource": {
         "label": "官网在线试玩",
@@ -445,7 +445,7 @@
       "type": "排盘引擎与数据集",
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "repo": "Renhuai123/ziwei-doushu",
-      "stars": 19978,
+      "stars": 19983,
       "description": "用出生信息生成传统紫微斗数命盘，查看宫位和星曜分布，也可以对照古籍和课程命例学习排盘。",
       "resource": {
         "label": "在线排盘",
@@ -456,6 +456,26 @@
           "path": "previews/ziwei-doushu-1.svg",
           "caption": "课程命例 · 命宫甲午的十二宫排布",
           "source": "https://github.com/Renhuai123/ziwei-doushu/blob/a857a4fc2c2950cf27c8e4818c77a7090ad1c434/research/nishi-video-reading/%E5%BA%B7%E5%A5%88%E5%B0%94%E7%AC%94%E8%AE%B0/P09/%E5%9B%BE/%E5%91%BD%E7%9B%98-P09-%E5%91%BD%E5%AE%AB%E7%94%B2%E5%8D%88.svg"
+        }
+      ]
+    },
+    {
+      "id": "sherlock",
+      "name": "Sherlock",
+      "category": "公开信息检索",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "repo": "sherlock-project/sherlock",
+      "stars": 118820,
+      "description": "输入一个用户名，列出多个平台上可能匹配的公开主页链接。适合核对自己的账号分布，或整理品牌的公开账号入口。",
+      "resource": {
+        "label": "项目官网",
+        "url": "https://sherlockproject.xyz/"
+      },
+      "images": [
+        {
+          "path": "previews/sherlock-1.webp",
+          "caption": "官方演示 · 按平台列出同名账号链接",
+          "source": "https://github.com/sherlock-project/sherlock/blob/c588d7c8b476df9f9c84912a05d1430fb8cdcdae/docs/images/demo.png"
         }
       ]
     }

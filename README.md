@@ -2,29 +2,30 @@
 
 按用途收录可复用的 AI 技能、创作工具与成品案例。各领域按 Stars 从高到低排列，暂无计数的项目排在末尾。点击项目名查看项目链接和效果图，点击图片可查看上游原图或生成它的模板。
 
-**19 个项目 · 8 个领域**　｜　GitHub Stars 采集于 2026-11-28（北京时间）
+**20 个项目 · 9 个领域**　｜　GitHub Stars 采集于 2026-11-29（北京时间）
 
 | 领域 | 项目 | 简介 | GitHub Stars |
 | --- | --- | --- | ---: |
-| 游戏开发 | [DSH Game Studio](#project-dsh-game-studio) | 用一句话描述玩法，生成可试玩的 2D 或 3D 小游戏。换好角色和场景后，可以发链接邀请别人玩。 | [994](https://github.com/ZSeven-W/dsh-game-studio/stargazers) |
+| 游戏开发 | [DSH Game Studio](#project-dsh-game-studio) | 用一句话描述玩法，生成可试玩的 2D 或 3D 小游戏。换好角色和场景后，可以发链接邀请别人玩。 | [992](https://github.com/ZSeven-W/dsh-game-studio/stargazers) |
 |  | [Kâğıt Kart](#project-kagit-kart) | 打开网页就能玩纸片卡丁车。漂移竞速时，桥梁和建筑会随着赛车靠近从书页上立起。 | [22](https://github.com/BurakErdemci/kagit-kart/stargazers) |
-| 视频制作 | [OpenMotion](#project-openmotion) | 根据参考视频做出自己的版本，换上品牌配色、文案和素材，再逐段调整镜头和节奏。适合制作产品介绍或社媒短片。 | [17,127](https://github.com/nexu-io/openmotion/stargazers) |
-|  | [FFmpeg Skill](#project-ffmpeg-skill) | 把现有视频剪成可发布的短片，去掉静音段、加逐词高亮字幕，也能把横屏素材裁成适合社媒发布的竖屏。 | [12,191](https://github.com/kajisho5/ffmpeg-skill/stargazers) |
-|  | [Remotion Agent Skills](#project-remotion-skills) | 把文案、图片和数据做成带动画的产品介绍、片头或地图解说。先预览节奏和字幕，再导出视频。 | [8,240](https://github.com/remotion-dev/skills/stargazers) |
-|  | [SRT 白板动画](#project-srt-whiteboard-animation) | 把课程或口播字幕做成手绘解说视频。线条和颜色跟着讲解逐步出现，让观众边听边看重点。 | [5,900](https://github.com/geeklee/srt-whiteboard-animation/stargazers) |
+| 视频制作 | [OpenMotion](#project-openmotion) | 根据参考视频做出自己的版本，换上品牌配色、文案和素材，再逐段调整镜头和节奏。适合制作产品介绍或社媒短片。 | [17,166](https://github.com/nexu-io/openmotion/stargazers) |
+|  | [FFmpeg Skill](#project-ffmpeg-skill) | 把现有视频剪成可发布的短片，去掉静音段、加逐词高亮字幕，也能把横屏素材裁成适合社媒发布的竖屏。 | [12,222](https://github.com/kajisho5/ffmpeg-skill/stargazers) |
+|  | [Remotion Agent Skills](#project-remotion-skills) | 把文案、图片和数据做成带动画的产品介绍、片头或地图解说。先预览节奏和字幕，再导出视频。 | [8,250](https://github.com/remotion-dev/skills/stargazers) |
+|  | [SRT 白板动画](#project-srt-whiteboard-animation) | 把课程或口播字幕做成手绘解说视频。线条和颜色跟着讲解逐步出现，让观众边听边看重点。 | [5,899](https://github.com/geeklee/srt-whiteboard-animation/stargazers) |
 |  | [Vox Director](#project-vox-director) | 给出一个选题，做成带旁白、配乐和字幕的剪纸拼贴短片。适合讲历史、讲知识，或用一条短片介绍产品卖点。 | [3,253](https://github.com/Alisa0808/vox-director/stargazers) |
-|  | [Perspective Illusion](#project-perspective-illusion) | 做出一段可循环播放的视觉错觉视频。街景先像平面插画，镜头移动时显出纵深，适合做创意短片或片头。 | [575](https://github.com/dotslashsimran/simcraft/stargazers)（所属仓库） |
-| 视觉创作与仿真 | [Teardown](#project-teardown) | 把机械装置做成可拆开的网页演示。可以边看机器运转，边展开部件或查看仪表，用来讲解零件怎样配合。 | [4,358](https://github.com/elvarofficial/teardown/stargazers) |
+|  | [Perspective Illusion](#project-perspective-illusion) | 做出一段可循环播放的视觉错觉视频。街景先像平面插画，镜头移动时显出纵深，适合做创意短片或片头。 | [576](https://github.com/dotslashsimran/simcraft/stargazers)（所属仓库） |
+| 视觉创作与仿真 | [Teardown](#project-teardown) | 把机械装置做成可拆开的网页演示。可以边看机器运转，边展开部件或查看仪表，用来讲解零件怎样配合。 | [4,364](https://github.com/elvarofficial/teardown/stargazers) |
 |  | [Creator Generalist](#project-creator-generalist) | 把创意做成动画解说、角色展示或可试玩的游戏原型，例如会运转的水磨剖面和逐段展开的丝绸之路地图。 | [378](https://github.com/codepawl/creator-generalist/stargazers) |
-| UI 与设计系统 | [Awesome DESIGN.md](#project-awesome-design-md) | 从现成的界面示例里挑一套视觉风格，让助手做出配色、按钮和排版一致的网站。适合给新站或改版定风格。 | [129,550](https://github.com/VoltAgent/awesome-design-md/stargazers) |
-|  | [Text to Lottie](#project-text-to-lottie) | 用文字描述动作，把图标、标志或图形做成可放进网页和 App 的小动画。适合做加载提示、按钮反馈和品牌动效。 | [5,836](https://github.com/diffusionstudio/lottie/stargazers)（所属仓库） |
-| 演示文稿 | [PPT Master](#project-ppt-master) | 把报告或主题做成可以在 PowerPoint 里继续修改的幻灯片。文字和图表能逐项编辑，也可以沿用自己的演示模板。 | [80,939](https://github.com/hugohe3/ppt-master/stargazers) |
-|  | [Frontend Slides](#project-frontend-slides) | 把一个主题或已有的 PowerPoint 做成能在浏览器翻页的演示。可以先看几种风格再选，做好后把网页文件发给听众。 | [33,053](https://github.com/zarazhangrui/frontend-slides/stargazers) |
-|  | [归藏 PPT Skill](#project-guizang-ppt-skill) | 把文章或产品介绍排成杂志式或网格式的网页演示，也能制作配图和分享封面。现场讲解时可看讲稿、下一页和计时。 | [30,552](https://github.com/op7418/guizang-ppt-skill/stargazers) |
+| UI 与设计系统 | [Awesome DESIGN.md](#project-awesome-design-md) | 从现成的界面示例里挑一套视觉风格，让助手做出配色、按钮和排版一致的网站。适合给新站或改版定风格。 | [129,570](https://github.com/VoltAgent/awesome-design-md/stargazers) |
+|  | [Text to Lottie](#project-text-to-lottie) | 用文字描述动作，把图标、标志或图形做成可放进网页和 App 的小动画。适合做加载提示、按钮反馈和品牌动效。 | [5,837](https://github.com/diffusionstudio/lottie/stargazers)（所属仓库） |
+| 演示文稿 | [PPT Master](#project-ppt-master) | 把报告或主题做成可以在 PowerPoint 里继续修改的幻灯片。文字和图表能逐项编辑，也可以沿用自己的演示模板。 | [80,959](https://github.com/hugohe3/ppt-master/stargazers) |
+|  | [Frontend Slides](#project-frontend-slides) | 把一个主题或已有的 PowerPoint 做成能在浏览器翻页的演示。可以先看几种风格再选，做好后把网页文件发给听众。 | [33,055](https://github.com/zarazhangrui/frontend-slides/stargazers) |
+|  | [归藏 PPT Skill](#project-guizang-ppt-skill) | 把文章或产品介绍排成杂志式或网格式的网页演示，也能制作配图和分享封面。现场讲解时可看讲稿、下一页和计时。 | [30,554](https://github.com/op7418/guizang-ppt-skill/stargazers) |
 | 地图与城市可视化 | [Pocket City](#project-pocket-city) | 给一个真实地址，做出可旋转、缩放和切换季节的手绘微缩街区。适合展示城市地标，或把熟悉的街角做成可分享的纪念。 | — |
-| 桌面交互 | [DSH Pet](#project-dsh-pet) | 让会动的宠物陪在桌面一角。可以同时放几只，调整大小和位置，也能用自制视频给宠物添加新动作。 | [6,810](https://github.com/PC2005-cloud/dsh-pet/stargazers) |
-|  | [KuroCat](#project-kurocat) | 桌角的小猫会模仿你敲键盘和点鼠标，也可以换造型。直播时可以把小猫放进画面，让观众看见它的反应。 | [1,915](https://github.com/qianyiai/kurocat/stargazers) |
-| 传统文化与知识库 | [紫微斗数](#project-ziwei-doushu) | 用出生信息生成传统紫微斗数命盘，查看宫位和星曜分布，也可以对照古籍和课程命例学习排盘。 | [19,978](https://github.com/Renhuai123/ziwei-doushu/stargazers) |
+| 桌面交互 | [DSH Pet](#project-dsh-pet) | 让会动的宠物陪在桌面一角。可以同时放几只，调整大小和位置，也能用自制视频给宠物添加新动作。 | [6,811](https://github.com/PC2005-cloud/dsh-pet/stargazers) |
+|  | [KuroCat](#project-kurocat) | 桌角的小猫会模仿你敲键盘和点鼠标，也可以换造型。直播时可以把小猫放进画面，让观众看见它的反应。 | [1,926](https://github.com/qianyiai/kurocat/stargazers) |
+| 传统文化与知识库 | [紫微斗数](#project-ziwei-doushu) | 用出生信息生成传统紫微斗数命盘，查看宫位和星曜分布，也可以对照古籍和课程命例学习排盘。 | [19,983](https://github.com/Renhuai123/ziwei-doushu/stargazers) |
+| 公开信息检索 | [Sherlock](#project-sherlock) | 输入一个用户名，列出多个平台上可能匹配的公开主页链接。适合核对自己的账号分布，或整理品牌的公开账号入口。 | [118,820](https://github.com/sherlock-project/sherlock/stargazers) |
 
 ## 游戏开发
 
@@ -275,6 +276,20 @@ Stars 暂缺。项目官网未提供对应的公开 GitHub 仓库链接。
 | 课程命例 · 命宫甲午的十二宫排布 |
 | --- |
 | <a href="https://github.com/Renhuai123/ziwei-doushu/blob/a857a4fc2c2950cf27c8e4818c77a7090ad1c434/research/nishi-video-reading/%E5%BA%B7%E5%A5%88%E5%B0%94%E7%AC%94%E8%AE%B0/P09/%E5%9B%BE/%E5%91%BD%E7%9B%98-P09-%E5%91%BD%E5%AE%AB%E7%94%B2%E5%8D%88.svg"><img src="previews/ziwei-doushu-1.svg" width="600" alt="课程命例 · 命宫甲午的十二宫排布"></a> |
+
+## 公开信息检索
+
+<a id="project-sherlock"></a>
+
+### Sherlock
+
+输入一个用户名，列出多个平台上可能匹配的公开主页链接。适合核对自己的账号分布，或整理品牌的公开账号入口。
+
+[项目主页](https://github.com/sherlock-project/sherlock) · [项目官网](https://sherlockproject.xyz/)
+
+| 官方演示 · 按平台列出同名账号链接 |
+| --- |
+| <a href="https://github.com/sherlock-project/sherlock/blob/c588d7c8b476df9f9c84912a05d1430fb8cdcdae/docs/images/demo.png"><img src="previews/sherlock-1.webp" width="600" alt="官方演示 · 按平台列出同名账号链接"></a> |
 
 ## 扩充索引
 
